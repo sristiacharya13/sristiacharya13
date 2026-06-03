@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sristi</h1>
-<p>A software developer who enjoys building things that actually work in production.</p><p>I've spent the past year writing backend APIs, wiring up auth systems, and making databases behave. I know my way around the frontend too.</p>
+<p>A Software Developer who enjoys building things that actually work in production.</p><p>I've spent the past year writing backend APIs, wiring up auth systems, and making databases behave. I know my way around the frontend too.</p>
 
 A few things I've shipped 💫
 - An AI agent that reads messy healthcare notes and turns them into structured logs
