@@ -1,11 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sristi</h1>
-<p>A Software Developer who enjoys building things that actually work in production.</p><p>I've spent the past year writing backend APIs, wiring up auth systems, and making databases behave. I know my way around the frontend too.</p>
+<h1 align="center">Hi, I'm Sristi Acharya 👋</h1>
+<p align="center"><i>Full-Stack Engineer · Building things that live on GitHub</i></p>
 
-A few things I've shipped 💫
-- An AI agent that reads messy healthcare notes and turns them into structured logs
-- A QA platform that predicts bugs before you find them the hard way
+<p align="center">
+  <img src="https://img.shields.io/badge/theme-GitHub-181717?style=flat-square&logo=github" alt="theme badge" />
+  <img src="https://img.shields.io/badge/style-Creative-blueviolet?style=flat-square" alt="style badge" />
+  <img src="https://img.shields.io/badge/role-Full--Stack%20Engineer-informational?style=flat-square" alt="role badge" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right:10px;" /> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contribution-heatmap">Heatmap</a> •
+  <a href="#github-stats">Stats</a> •
+  <a href="#connect">Connect</a>
+</p>
 
-Feel free to connect via email at <a href="mailto:sristiacharya1311@gmail.com">sristiacharya1311@gmail.com</a>
+---
+
+## Header
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=sristiacharya13&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=sristiacharya13&theme=github-dark" alt="sristiacharya13 hero section" />
+  </picture>
+</p>
+
+## About Me
+
+I'm a full-stack engineer who likes owning things end to end, from designing the data model to shipping the pixel-perfect UI that sits on top of it. I care about writing code that's easy to read six months later, and I'm always looking for the next problem worth solving.
+
+- 🔭 Currently building projects that combine clean architecture with thoughtful UX
+- 🌱 Always leveling up across the stack: backend systems, frontend polish, and everything in between
+- 🤝 Open to collaborating on interesting side projects and open-source work
+- 💬 Ask me about system design, developer tooling, or just good code review practices
+- ⚡ Fun fact: I'd rather refactor a messy function than leave it alone
+
+## Skills
+
+My stack, at a glance.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sristiacharya13&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=sristiacharya13&theme=github-dark" alt="sristiacharya13 stack section" />
+  </picture>
+</p>
+
+## Projects
+
+A few things I've built and shipped.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sristiacharya13&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=sristiacharya13&theme=github-dark" alt="sristiacharya13 projects section" />
+  </picture>
+</p>
+
+## Contribution Heatmap
+
+A year-long look at my GitHub activity.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sristiacharya13&theme=github-light&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sristiacharya13&theme=github-dark&hide_border=true" alt="sristiacharya13 contribution heatmap" />
+  </picture>
+</p>
+
+## GitHub Stats
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sristiacharya13&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=sristiacharya13&theme=github-dark" alt="sristiacharya13 stats section" />
+  </picture>
+</p>
+
+
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sristiacharya13&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=sristiacharya13&theme=github-dark" alt="sristiacharya13 social section" />
+  </picture>
+</p>
+
+<p align="center"><sub>⭐ If you like what you see, a star on my pinned repos means a lot.</sub></p>
+
+<!-- Sections: Header, About Me, Skills, Projects, Contribution Heatmap, GitHub Stats, Connect -->
